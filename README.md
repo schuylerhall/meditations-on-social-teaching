@@ -1,1 +1,1 @@
-![Poster](/socialteaching.png?raw=true "Meditations on Catholic Social Teaching")
+<img src="/socialteaching.png?raw=true" width="300">
